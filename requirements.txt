@@ -1,0 +1,12 @@
+streamlit
+huggingface-hub
+llama-index
+langchain
+langchain-huggingface
+langchain-community
+langchain-chroma
+chromadb
+streamlit-extras
+sentence-transformers
+onnxruntime
+torch 

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +206,19 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+=======
+# Secrets
+.streamlit/secrets.toml
+user_credentials.json
+
+# Local/IDE
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Data and temp
+chroma_db/
+temp_uploads/
+
