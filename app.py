@@ -208,8 +208,8 @@ st.info('''
         ''')
 
 st.subheader("Navigation")
-st.page_link("Pages/chatbot.py", label="Chat", icon="💬")
-st.page_link("Pages/management.py", label="Store Document", icon="📄")
+st.page_link("pages/chatbot.py", label="Chat", icon="💬")
+st.page_link("pages/management.py", label="Store Document", icon="📄")
 
 # Button to clear ChromaDB
 clear_data = st.button("Reset ChromaDB")
